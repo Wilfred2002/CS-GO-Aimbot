@@ -2,7 +2,7 @@ This repository contains the source code for an external aim assistant developed
 
 FEATURES:
 
-Real-time player and entity position tracking using 3D vector calculations.
+Real-time player and entity position tracking using 3D vector calculations and the 3D Pythagorean theorem.
 Smooth and natural aim transitions for a realistic gameplay experience.
 Easy toggle feature for user-friendly control during gameplay.
 Ethical development practices, emphasizing learning and skill development.
