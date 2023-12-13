@@ -1,6 +1,7 @@
 This repository contains the source code for an external aim assistant developed for the popular first-person shooter game, Counter-Strike: Global Offensive (CS:GO). This project was created for educational purposes to demonstrate proficiency in C++, Windows API, and understanding of game mechanics.
 
 FEATURES:
+
 Real-time player and entity position tracking using 3D vector calculations.
 Smooth and natural aim transitions for a realistic gameplay experience.
 Easy toggle feature for user-friendly control during gameplay.
