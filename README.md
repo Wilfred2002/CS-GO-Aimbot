@@ -8,12 +8,15 @@ Easy toggle feature for user-friendly control during gameplay.
 Ethical development practices, emphasizing learning and skill development.
 
 TECHNOLOGIES:
+
 C++
 Windows API
 
 SETUP:
+
 Build and run while CS:GO is open.
 Click 'F' to toggle. 
 
 DISCLAIMER:
+
 This project was developed strictly for educational purposes and to demonstrate software development skills in a controlled environment. It is not intended for use in actual gameplay or to disrupt the fair play environment of CS:GO. The developer is not responsible for any misuse of this software or any violations of game terms and conditions.
